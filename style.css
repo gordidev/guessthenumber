@@ -1,0 +1,39 @@
+body{
+    background-color: #242424;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+h1, input{
+    font-weight: bold;
+}
+#title{
+    background-color: cornflowerblue;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+#texto{
+    text-align: center;
+    margin-bottom: 50px;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    border: none;
+    outline: none;
+}
+#button{
+    transition: 0.3s;
+    padding: 10px 20px;
+    font-size: 50px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+#button:hover{
+    transition: 0.3s;
+    font-size: 70px;
+}
